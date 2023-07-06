@@ -9,6 +9,7 @@ If using the url above, installation can be accieved simply by going to the link
 If cloning the repository onto local host, the application can be installed by going into the terminal in the root directory. To initiate the client side, enter the command 'npm run build'. Then initiate the server by running the command 'npm run start'. Once done, open the local host connection on browser to use the application. 
 
 ## Usage 
+Once installed using either method, you are ready to use the text editor. 
 
 ## License 
 [MIT License](https://choosealicense.com/licenses/mit/)
